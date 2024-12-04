@@ -4,7 +4,7 @@ import json
 from tensorflow.keras import utils 
 import numpy as np
 
-KERN_DATASET_PATH ="deutschl/erk"
+KERN_DATASET_PATH ="/home/abhi05/MusicGenerator/deutschl/erk"
 SAVE_DIR="dataset"
 SINGLE_FILE_DATASET="file_dataset"
 MAPPING_PATH="mapping.json"
